@@ -1,0 +1,11 @@
+How you can commit the code to bitbucket through notepadd++
+
+So here's are steps you.
+
+1- Download and install mysysgit --------- Download  link(http://gitforwindows.org/)
+2- Download and install Tortoise Git -------- Download link(https://tortoisegit.org/)
+3- Download the dll file for git on notepad++ from here ------Download Link(https://forum.lowyat.net/topic/135832...)
+4- Drop the .dll file into the plugins folder of notepad++
+5- One thing to make sure, you must already have committed repo in your computer
+6- Open Notepad++, Plugins - Git - Commit File
+   Put your commit message and push the code/files
