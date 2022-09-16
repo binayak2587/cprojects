@@ -1,5 +1,4 @@
 Adding file in main-1 branch
 Adding file in main-2 branch 
 Making changes in main-1 from main2 branch  
-Adding one more change to main1.txt from main-2 branch
-new changes  
+Adding one more change to main1.txt from main-2 branch 
